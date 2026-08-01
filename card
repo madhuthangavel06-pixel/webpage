@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+
+.main-header-container{
+    height: 100px;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+}
+
+ul li{
+    font-size: 20px;
+}
+.button-container{
+    display: flex;
+    gap: 17px;
+}
